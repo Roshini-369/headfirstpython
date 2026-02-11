@@ -1,4 +1,4 @@
-0. make sure the accounts permission of contens has been set to read,write in github
+0. make sure the accounts permission of contens has been set to read,write in github token generate
 1. go to the terminal of the project path
 2. git init
 3. git clone  https://YOUR_TOKEN_HERE@github.com/Roshini-369/headfirstpython.git
